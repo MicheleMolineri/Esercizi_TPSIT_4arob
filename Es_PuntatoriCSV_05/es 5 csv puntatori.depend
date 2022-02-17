@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1633682101 source:c:\users\miche\desktop\scuola\4a rob\tpsit\c\es 5 csv puntatori\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+

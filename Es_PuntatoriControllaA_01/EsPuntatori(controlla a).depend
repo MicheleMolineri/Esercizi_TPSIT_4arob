@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1634804714 source:c:\users\miche\desktop\scuola\4a rob\info\c\esstrutture\espuntatori(controlla a)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635429210 source:c:\users\miche\desktop\scuola\4a rob\tpsit\c\espuntatori(controlla a)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
