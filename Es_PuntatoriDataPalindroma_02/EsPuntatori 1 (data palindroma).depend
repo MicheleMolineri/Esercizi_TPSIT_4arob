@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1634287572 source:c:\users\miche\desktop\scuola\4a rob\info\c\esstrutture\espuntatori 1 (data palindroma)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
